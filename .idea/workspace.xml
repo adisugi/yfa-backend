@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fa02277-cd45-4b57-9e0f-6543a435ebf3" name="Default Changelist" comment="init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sEjYZe91a2C3r08GppgWQMck7T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adi/project/yfa-golang" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sampah\gen-4-YFA-Express\src\main\resources" />
+      <recent name="D:\sampah\gen-4-YFA-Express\src\main\resources\static\img" />
+      <recent name="D:\sampah\gen-4-YFA-Express\src\main\resources\static" />
+      <recent name="D:\sampah\gen-4-YFA-Express\src\main\resources\static\jasper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kel3.yfaexpress.configuration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YfaexpressApplication">
+    <configuration name="ApiCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kel3.yfaexpress.controller.restapi.ApiCost" />
+      <module name="yfaexpress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kel3.yfaexpress.controller.restapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiKota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kel3.yfaexpress.controller.restapi.ApiKota" />
+      <module name="yfaexpress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kel3.yfaexpress.controller.restapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yfaexpress [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="YfaexpressApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yfaexpress" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kel3.yfaexpress.YfaexpressApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ApiCost" />
+      <item itemvalue="Application.ApiKota" />
+      <item itemvalue="Maven.yfaexpress [clean,install]" />
+      <item itemvalue="Spring Boot.YfaexpressApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiKota" />
+        <item itemvalue="Application.ApiCost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa02277-cd45-4b57-9e0f-6543a435ebf3" name="Default Changelist" comment="" />
+      <created>1620444692373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620444692373</updated>
+      <workItem from="1620444697459" duration="11223000" />
+      <workItem from="1620523333750" duration="55969000" />
+      <workItem from="1620647242750" duration="1102000" />
+      <workItem from="1620686737832" duration="13041000" />
+      <workItem from="1620778788143" duration="1524000" />
+      <workItem from="1621218220649" duration="9083000" />
+      <workItem from="1621403675610" duration="4164000" />
+      <workItem from="1621477269486" duration="1808000" />
+      <workItem from="1621858168370" duration="1501000" />
+      <workItem from="1621941394543" duration="4888000" />
+      <workItem from="1621997128206" duration="17200000" />
+      <workItem from="1622080635613" duration="29640000" />
+      <workItem from="1622166206833" duration="4773000" />
+      <workItem from="1622262761080" duration="608000" />
+      <workItem from="1622343203467" duration="3588000" />
+      <workItem from="1622425563345" duration="3599000" />
+      <workItem from="1622445921061" duration="148000" />
+      <workItem from="1622446378644" duration="332000" />
+      <workItem from="1622447294973" duration="6002000" />
+      <workItem from="1622530363657" duration="4762000" />
+      <workItem from="1622597994105" duration="1306000" />
+      <workItem from="1622608803964" duration="4861000" />
+      <workItem from="1622684735639" duration="6936000" />
+      <workItem from="1622720915496" duration="3145000" />
+      <workItem from="1622762407383" duration="2487000" />
+      <workItem from="1622786370050" duration="4760000" />
+      <workItem from="1622852633652" duration="4056000" />
+      <workItem from="1622939611150" duration="3297000" />
+      <workItem from="1623026779583" duration="12698000" />
+      <workItem from="1623115340057" duration="13004000" />
+      <workItem from="1623193623098" duration="7089000" />
+      <workItem from="1623223991657" duration="2905000" />
+      <workItem from="1623290410851" duration="3790000" />
+      <workItem from="1623377587949" duration="1253000" />
+      <workItem from="1623419572517" duration="1194000" />
+      <workItem from="1623592167020" duration="1803000" />
+      <workItem from="1623634809366" duration="3158000" />
+      <workItem from="1623652733900" duration="15277000" />
+      <workItem from="1623725841797" duration="5280000" />
+      <workItem from="1623808558080" duration="1203000" />
+      <workItem from="1623981146698" duration="4035000" />
+      <workItem from="1624084250757" duration="3038000" />
+      <workItem from="1624100313562" duration="2322000" />
+      <workItem from="1624105495982" duration="632000" />
+      <workItem from="1624120298024" duration="1512000" />
+      <workItem from="1624181394820" duration="2070000" />
+      <workItem from="1624243016448" duration="2610000" />
+    </task>
+    <task id="LOCAL-00001" summary="lacak selesai">
+      <created>1620445681558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620445681558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lacak mantul tul tul tul">
+      <created>1620462830330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620462830330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lacak mantul">
+      <created>1620463236783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620463236783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="benerin base login dan lengkapi home page">
+      <created>1620611154927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620611154927</updated>
+    </task>
+    <task id="LOCAL-00005" summary="benerin login.js dan lacak.html">
+      <created>1620634020245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620634020245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="utama selesai">
+      <created>1620693098866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620693098867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jasper">
+      <created>1622083407013</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622083407013</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jasper">
+      <created>1622169643927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622169643927</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jasper">
+      <created>1622194189918</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622194189918</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init">
+      <created>1624120582407</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624120582407</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init">
+      <created>1624121032260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624121032260</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lacak selesai" />
+    <MESSAGE value="lacak mantul tul tul tul" />
+    <MESSAGE value="lacak mantul" />
+    <MESSAGE value="benerin base login dan lengkapi home page" />
+    <MESSAGE value="benerin login.js dan lacak.html" />
+    <MESSAGE value="utama selesai" />
+    <MESSAGE value="jasper" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
